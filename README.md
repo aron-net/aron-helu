@@ -2,11 +2,11 @@
   <h1>
     # Hi, I'm Aron! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   </h1>
-  <p align="left">A Full-stack developer who loves coding and building things that live on the internet. My passion stems from a strong desire to create interfaces that are both usable and enjoyable for as many users as possible</p>
 </div>  
 <div display="flex" wrap="wrap">
   <div align="center">
-  <img src="./image/DSC_0713.JPG" width="20%"/>  
+  <img src="./image/DSC_0713.JPG" width="20%"/>
+    <p align="left">A Full-stack developer who loves coding and building things that live on the internet. My passion stems from a strong desire to create interfaces that are both usable and enjoyable for as many users as possible</p>
 </div>
 
   <div width="20%">
