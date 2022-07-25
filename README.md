@@ -28,6 +28,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   - :zap: In my free time, I solve problems on hackerrank challenges and read tech articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aron-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aron-abraham-90a4321b0/)
 
+    <p align="center"> 
+<img src="https://komarev.com/ghpvc/?aron-helu=Aron-helu&label=Views&color=blue&style=plastic" alt="digvijay173" />
+ </p>
 
   ### :hammer_and_wrench: Languages and Tools :
 
