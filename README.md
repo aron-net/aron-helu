@@ -11,7 +11,7 @@
 
 #### You can reach me
 
-- Web : ~~Under Construction~~ 
+- Web : [Aron-portofolio](https://aron-helu.github.io/portfolio-v2/)
 - Email :  [aronmilahela@gmail.com](mailto:aronmilahela@gmail.com)
 - Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-Aron-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aron-abraham-90a4321b0/)
 
