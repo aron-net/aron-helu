@@ -3,16 +3,25 @@
   <a href="https://github.com/binars-software-house/binars-software-house">
     <img src="https://readme-typing-svg.demolab.com/?lines=FULL-STACK%20WEB%20DEVELOPER;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
+   </p>
+<p align="center">
+
+<a href="https://discord.com/users/Aron#4080" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
+<a href="https://aron-helu.github.io/portfolio-v2/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://twitter.com/AaronMilu" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/aron-abraham-90a4321b0/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://codepen.io/your-work" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
+<a href="mailto:aronmilahela@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
+</p>
     
 <img src="./image/carbon (6).png" width="100%">
 
 <img src="./image/carbon (11).png" width="100%">  
-
-#### You can reach me
-
-- Web : [Aron-portofolio](https://aron-helu.github.io/portfolio-v2/)
-- Email :  [aronmilahela@gmail.com](mailto:aronmilahela@gmail.com)
-- Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-Aron-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aron-abraham-90a4321b0/)
 
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
@@ -40,5 +49,3 @@
     <a href="https://github.com/aron-helu/aron-helu">
         <img src="https://github-profile-trophy.vercel.app/?username=aron-helu&column=-1&theme=dracula&layout=compact"width="95%"/> 
 </p>
-
-
